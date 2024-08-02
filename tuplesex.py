@@ -7,3 +7,4 @@ print(type_of_accounts.index("Current"))
 print(type_of_accounts[1:3])
 sorted_tuple = tuple(sorted(type_of_accounts));
 print(sorted_tuple[::-1]);
+print("*" * 80)
