@@ -1,5 +1,5 @@
 my_stocks = {}
-my_stocks= {"TCS":2700, "Infosys": 3000, "IDBI" : 140, "NTPC":220, "TCS":900}
+my_stocks= {"TCS":2700, "Infosys": 3000, "IDBI" : 140, "NTPC":221, "TCS":900}
 #print(type(my_stocks))
 my_stocks["SBI"] = 1700
 print("Price of Infosys is-", my_stocks["Infosys"])
